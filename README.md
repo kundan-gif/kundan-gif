@@ -9,9 +9,13 @@
 
 - 📫 How to reach me **kundan211097@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> My Profiles:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/16092192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="16092192" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kundankumar21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kundankumar21" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16092192/kundan-kumar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="16092192" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kundan211097" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="kundan211097" height="30" width="40" /></a>
+<a href="https://leetcode.com/kundan211097/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="kundan211097" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/kundan211097/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="kundan211097" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
