@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Android developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kundan-gif&label=Profile%20views&color=0e75b6&style=flat" alt="kundan-gif" /> </p>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/odmqozPudZor6yF3VK/giphy.gif">
 
 - 👨‍💻 All of my projects are available at [https://kundan-portfolio.netlify.app/](https://kundan-portfolio.netlify.app/)
 
